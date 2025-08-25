@@ -1,0 +1,1 @@
+# QTechSolutionsInternship-School-Management-System
